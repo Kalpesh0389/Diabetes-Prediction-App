@@ -40,25 +40,21 @@ diabetes-prediction/
 └── home.html          
 
 ⚙️ Installation & Setup
-Clone the repository
-
-bash
+1.Clone the repository
 git clone https://github.com/your-username/diabetes-prediction.git
 cd diabetes-prediction
-Create virtual environment
 
-bash
+2.Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies
 
-bash
+3.Install dependencies
 pip install -r requirements.txt
-Run the Flask application
 
-bash
+4.Run the Flask application
 python app.py
-Open in browser
+
+5.Open in browser
 Navigate to: http://localhost:5000
 
 📌 Future Enhancements
