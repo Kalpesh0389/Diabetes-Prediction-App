@@ -6,6 +6,7 @@ The Diabetes Prediction System is a web-based Machine Learning application that 
 The application uses a Logistic Regression model trained on the Pima Indians Diabetes dataset and is deployed using Flask on PythonAnywhere.
 
 🚀 Features
+
 <p align="left"> <strong>✅ Machine Learning model</strong> using Logistic Regression<br> <strong>✅ Trained model</strong> saved with Pickle<br> <strong>✅ Flask web application</strong> with a clean UI<br> <strong>✅ Real-time prediction results</strong><br> <strong>✅ Deployed live</strong> on PythonAnywhere </p>
 🧠 Machine Learning Details
 Component	Details
