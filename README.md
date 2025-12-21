@@ -37,8 +37,7 @@ diabetes-prediction/
 ├── requirements.txt    
 ├── README.md           
 ├── templates/          
-│   └── home.html
-└── static/            
+└── home.html          
 
 ⚙️ Installation & Setup
 Clone the repository
