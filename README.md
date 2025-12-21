@@ -73,4 +73,3 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 <div align="center"> <p><strong>Made with ❤️ and Python</strong></p> <img src="https://img.shields.io/badge/Health-Tech-4CAF50" alt="Health Tech"> <img src="https://img.shields.io/badge/AI-For_Good-9C27B0" alt="AI for Good"> </div>
 
-i want title in middle and downside
