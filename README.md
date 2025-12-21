@@ -29,8 +29,11 @@ Dropped Feature	Pregnancies
 📁 Project Structure
 Project Root
 diabetes-prediction/
+
 ├── app.py
+
 ├── train_model.py
+
 ├── diab.pkl
 ├── diabetes.csv
 ├── requirements.txt
