@@ -38,6 +38,7 @@ diabetes-prediction/
 ├── README.md           
 ├── templates/          
 │   └── home.html
+
 └── static/            
 
 ⚙️ Installation & Setup
