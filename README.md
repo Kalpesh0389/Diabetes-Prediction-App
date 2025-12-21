@@ -27,20 +27,33 @@ Dropped Feature	Pregnancies
 🛠️ Technologies Used
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Pickle-Data_Serialization-lightgrey?style=for-the-badge" alt="Pickle"> <img src="https://img.shields.io/badge/PythonAnywhere-Deployment-yellow?style=for-the-badge" alt="PythonAnywhere"> </div>
 📁 Project Structure
-
+Project Root
 diabetes-prediction/
-│
-├── app.py                    # Flask application
-├── train_model.py            # Model training script
-├── diab.pkl                  # Trained model (Pickle)
-├── diabetes.csv              # Dataset
-├── requirements.txt          # Dependencies
-├── README.md                 # Documentation
-│
+├── app.py
+├── train_model.py
+├── diab.pkl
+├── diabetes.csv
+├── requirements.txt
+├── README.md
 ├── templates/
-│   └── home.html             # Main UI template
-│
-└── static/                   # (Future: CSS/JS assets)
+│   └── home.html
+└── static/
+File Descriptions:
+
+app.py - Flask application (main server file)
+
+train_model.py - Model training script
+
+diab.pkl - Trained model (Pickle file)
+
+diabetes.csv - Dataset
+
+requirements.txt - Python dependencies
+
+templates/home.html - Main UI template
+
+static/ - Future CSS/JS assets folder
+
 ⚙️ Installation & Setup
 Clone the repository
 
