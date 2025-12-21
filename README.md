@@ -30,32 +30,15 @@ Dropped Feature	Pregnancies
 Project Root
 diabetes-prediction/
 
-├── app.py
-
-├── train_model.py
-
-├── diab.pkl
-├── diabetes.csv
-├── requirements.txt
-├── README.md
-├── templates/
+├── app.py              #Flask application
+├── train_model.py      #Model training script
+├── diab.pkl            #Trained model (Pickle)
+├── diabetes.csv        #Dataset
+├── requirements.txt    #Dependencies
+├── README.md           #Documentation
+├── templates/          #Main UI template
 │   └── home.html
-└── static/
-File Descriptions:
-
-app.py - Flask application (main server file)
-
-train_model.py - Model training script
-
-diab.pkl - Trained model (Pickle file)
-
-diabetes.csv - Dataset
-
-requirements.txt - Python dependencies
-
-templates/home.html - Main UI template
-
-static/ - Future CSS/JS assets folder
+└── static/             #(Future: CSS/JS assets)
 
 ⚙️ Installation & Setup
 Clone the repository
