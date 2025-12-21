@@ -66,9 +66,11 @@ Navigate to: http://localhost:5000
 📌 Future Enhancements
 <p align="left"> 🔹 <strong>Feature scaling</strong> for better model performance<br> 🔹 <strong>Improve model accuracy</strong> with advanced algorithms<br> 🔹 <strong>Show prediction probability</strong><br> 🔹 <strong>Add Bootstrap UI</strong> for better design<br> 🔹 <strong>Deploy on cloud platforms</strong> like AWS / Render </p>
 👨‍💻 Author
+
 Kalpesh
 📧 Contact: remjekalpesh486@gmail.com
-🔗 GitHub: 
+
+🔗 GitHub: https://github.com/Kalpesh0389
 
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
