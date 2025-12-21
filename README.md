@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction System
+                                       🩺 Diabetes Prediction System
 Flask + Machine Learning Web Application
 
 <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue" alt="Machine Learning"> <img src="https://img.shields.io/badge/Web%20Framework-Flask-green" alt="Flask"> <img src="https://img.shields.io/badge/Deployment-PythonAnywhere-orange" alt="PythonAnywhere"> </p><h3 align="center">🌐 Live Demo: <a href="https://kalpesh123.pythonanywhere.com/">https://kalpesh123.pythonanywhere.com/</a></h3>
