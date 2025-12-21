@@ -1,12 +1,13 @@
 🩺 Diabetes Prediction System
-<p align="center"> <strong>Flask + Machine Learning Web Application</strong> </p><p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue" alt="Machine Learning"> <img src="https://img.shields.io/badge/Web%20Framework-Flask-green" alt="Flask"> <img src="https://img.shields.io/badge/Deployment-PythonAnywhere-orange" alt="PythonAnywhere"> </p><h3 align="center">🌐 Live Demo: <a href="https://kalpesh123.pythonanywhere.com/">https://kalpesh123.pythonanywhere.com/</a></h3>
+(Flask + Machine Learning Web Application)
+
+<p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue" alt="Machine Learning"> <img src="https://img.shields.io/badge/Web%20Framework-Flask-green" alt="Flask"> <img src="https://img.shields.io/badge/Deployment-PythonAnywhere-orange" alt="PythonAnywhere"> </p><h3 align="center">🌐 Live Demo: <a href="https://kalpesh123.pythonanywhere.com/">https://kalpesh123.pythonanywhere.com/</a></h3>
 📌 Project Overview
 The Diabetes Prediction System is a web-based Machine Learning application that predicts whether a person is Diabetic or Non-Diabetic based on medical input parameters.
 
 The application uses a Logistic Regression model trained on the Pima Indians Diabetes dataset and is deployed using Flask on PythonAnywhere.
 
 🚀 Features
-
 <p align="left"> <strong>✅ Machine Learning model</strong> using Logistic Regression<br> <strong>✅ Trained model</strong> saved with Pickle<br> <strong>✅ Flask web application</strong> with a clean UI<br> <strong>✅ Real-time prediction results</strong><br> <strong>✅ Deployed live</strong> on PythonAnywhere </p>
 🧠 Machine Learning Details
 Component	Details
@@ -71,3 +72,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ⚠️ Disclaimer: This tool is for educational purposes only. Always consult healthcare professionals for medical diagnoses.
 
 <div align="center"> <p><strong>Made with ❤️ and Python</strong></p> <img src="https://img.shields.io/badge/Health-Tech-4CAF50" alt="Health Tech"> <img src="https://img.shields.io/badge/AI-For_Good-9C27B0" alt="AI for Good"> </div>
+
+i want title in middle and downside
