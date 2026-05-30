@@ -170,8 +170,11 @@ For local development, ensure all dependencies in `requirements.txt` are install
 ## 👨‍💻 Author
 
 **Kalpesh Remje**
+
 Full Stack & ML Developer
+
 📧 Email: [remjekalpesh486@gmail.com](mailto:remjekalpesh486@gmail.com)
+
 🔗 GitHub: [https://github.com/Kalpesh0389](https://github.com/Kalpesh0389)
 
 ---
