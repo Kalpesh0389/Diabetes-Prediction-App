@@ -171,7 +171,7 @@ For local development, ensure all dependencies in `requirements.txt` are install
 
 **Kalpesh Remje**
 Full Stack & ML Developer
-📧 remjekalpesh486@gmail.com
+📧 Email: [remjekalpesh486@gmail.com](mailto:remjekalpesh486@gmail.com)
 🔗 GitHub: [https://github.com/Kalpesh0389](https://github.com/Kalpesh0389)
 
 ---
