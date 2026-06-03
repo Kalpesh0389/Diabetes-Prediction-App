@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 DiabetaML : Diabetes Prediction System
+# 🩺 Diabetes Prediction System
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Tech](https://img.shields.io/badge/Machine%20Learning-Flask-blue)
